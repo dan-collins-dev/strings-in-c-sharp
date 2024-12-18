@@ -16,7 +16,7 @@
  */
 using System;
 
-namespace c_sharp_strings
+namespace CSharpStrings
 {
     internal class Program
     {
